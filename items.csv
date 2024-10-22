@@ -1,0 +1,51 @@
+ID,Name,Category,Quantity,Price
+1,Gulab Jamun,Sweets,100,2.50
+2,Rasgulla,Sweets,80,2.00
+3,Barfi,Sweets,50,3.00
+4,Jalebi,Sweets,60,1.50
+5,Kaju Katli,Sweets,40,4.00
+6,Ladoo,Sweets,70,1.75
+7,Peda,Sweets,55,2.25
+8,Chocolates,Sweets,150,1.00
+9,Halwa,Sweets,45,2.50
+10,Soan Papdi,Sweets,30,3.50
+11,Dhokla,Veg Food,50,1.50
+12,Samosa,Veg Food,100,1.00
+13,Paneer Tikka,Veg Food,20,5.00
+14,Chole Bhature,Veg Food,60,3.50
+15,Vegetable Biryani,Veg Food,30,4.00
+16,Aloo Tikki,Veg Food,80,1.50
+17,Pakora,Veg Food,40,2.00
+18,Vegetable Sandwich,Veg Food,25,1.75
+19,Pav Bhaji,Veg Food,35,2.50
+20,Spring Roll,Veg Food,60,1.50
+21,Methi Malai Murg,Veg Food,20,6.00
+22,Malai Kofta,Veg Food,50,4.00
+23,Bhindi Masala,Veg Food,40,3.00
+24,Paneer Butter Masala,Veg Food,30,5.00
+25,Vegetable Fried Rice,Veg Food,50,4.00
+26,Vegetable Noodles,Veg Food,60,4.00
+27,Tandoori Roti,Veg Food,100,0.50
+28,Butter Naan,Veg Food,70,1.00
+29,Plain Rice,Veg Food,50,2.00
+30,Paneer Paratha,Veg Food,40,3.00
+31,Cheese Paratha,Veg Food,30,3.50
+32,Gajar ka Halwa,Sweets,45,2.75
+33,Ras Malai,Sweets,50,3.00
+34,Sandesh,Sweets,40,2.50
+35,Motichoor Ladoo,Sweets,35,3.50
+36,Kheer,Sweets,60,2.00
+37,Chum Chum,Sweets,30,3.00
+38,Petha,Sweets,55,2.25
+39,Rasgulla Cake,Sweets,20,4.00
+40,Doodh Peda,Sweets,25,2.75
+41,Chocolate Burfi,Sweets,15,3.50
+42,Sooji Halwa,Sweets,40,2.00
+43,Fruit Cake,Sweets,30,5.00
+44,Vanilla Ice Cream,Sweets,75,1.50
+45,Chocolate Ice Cream,Sweets,60,2.00
+46,Strawberry Ice Cream,Sweets,50,2.00
+47,Mango Kulfi,Sweets,20,3.00
+48,Saffron Milk,Sweets,40,2.50
+49,Gajar ka Halwa,Sweets,35,2.75
+50,Fruit Chaat,Veg Food,50,2.00
